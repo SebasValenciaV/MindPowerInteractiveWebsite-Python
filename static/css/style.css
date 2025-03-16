@@ -1,0 +1,30 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.power-card {
+    background-color: #f8f9fa;
+    border-left: 4px solid #007bff;
+}
+
+.recommendations ul {
+    padding-left: 0;
+}
+
+.list-group-item {
+    background-color: transparent;
+    border: none;
+    padding: 0.5rem 0;
+}
+
+.progress {
+    background-color: #e9ecef;
+}
+
+.progress-bar {
+    background-color: #007bff;
+}
